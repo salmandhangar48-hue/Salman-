@@ -1,0 +1,6 @@
+{
+  "name": "SALMAN AI",
+  "description": "JARVIS-style futuristic AI desktop assistant with real-time Man Hindi voice, audio-to-audio interactions, arc reactor visualizer, and high-knowledge conversational intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
